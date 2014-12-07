@@ -19,7 +19,7 @@
 				</section><!-- sidebar -->
 			</div><!-- content -->
 		</section><!-- container -->
-
+      <?php include "_/components/php/footer.php"; ?>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
