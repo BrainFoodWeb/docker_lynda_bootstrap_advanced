@@ -10,10 +10,11 @@
   <body id="home">
 
 		<section class="container">
+    <?php include "_/components/php/header.php"; ?>
+    <?php include "_/components/php/snippet-carousel.php"; ?>
 			<div class="content row">
 				<section class="main col col-lg-8">
-          <?php include "_/components/php/header.php"; ?>
-          <?php include "_/components/php/snippet-carousel.php"; ?>
+        <?php include "_/components/php/article-intro.php"; ?>
 				</section><!-- main -->
 				<section class="sidebar col col-lg-4">
 
